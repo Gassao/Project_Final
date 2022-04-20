@@ -1,0 +1,101 @@
+[
+    {
+        "id": "621b9ab6453390bc7f66c4fc",
+        "Permissions": []
+    },
+    {
+        "id": "621b9ad8453390bc7f66c4fe",
+        "Permissions": [
+            "View Subscriptions",
+            "View Subscriptions",
+            "Create Subscriptions",
+            "View Subscriptions",
+            "Delete Subscriptions",
+            "View Subscriptions",
+            "Update Subscriptions",
+            "View Movies",
+            "View Movies",
+            "Create Movies",
+            "View Movies",
+            "Delete Movies",
+            "View Movies",
+            "Update Movies"
+        ]
+    },
+    {
+        "id": "621b9af7453390bc7f66c501",
+        "Permissions": [
+            "View Subscriptions",
+            "View Subscriptions",
+            "Create Subscriptions",
+            "View Subscriptions",
+            "Update Subscriptions",
+            "View Subscriptions",
+            "Delete Subscriptions",
+            "View Movies",
+            "View Movies",
+            "Create Movies",
+            "View Movies",
+            "Delete Movies",
+            "View Movies",
+            "Update Movies"
+        ]
+    },
+    {
+        "id": "621b9b1c453390bc7f66c504",
+        "Permissions": [
+            "View Subscriptions",
+            "View Subscriptions",
+            "Create Subscriptions",
+            "View Subscriptions",
+            "Delete Subscriptions",
+            "View Subscriptions",
+            "Update Subscriptions",
+            "View Movies",
+            "View Movies",
+            "Create Movies",
+            "View Movies",
+            "Delete Movies",
+            "View Movies",
+            "Update Movies"
+        ]
+    },
+    {
+        "id": "621b9b3f453390bc7f66c507",
+        "Permissions": [
+            "View Subscriptions",
+            "View Subscriptions",
+            "Create Subscriptions",
+            "View Subscriptions",
+            "Delete Subscriptions",
+            "View Subscriptions",
+            "Update Subscriptions",
+            "View Movies",
+            "View Movies",
+            "Create Movies",
+            "View Movies",
+            "Delete Movies",
+            "View Movies",
+            "Update Movies"
+        ]
+    },
+    {
+        "id": "621b9b5d453390bc7f66c50a",
+        "Permissions": [
+            "View Subscriptions",
+            "View Subscriptions",
+            "Create Subscriptions",
+            "View Subscriptions",
+            "Delete Subscriptions",
+            "View Subscriptions",
+            "Update Subscriptions",
+            "View Movies",
+            "View Movies",
+            "Create Movies",
+            "View Movies",
+            "Delete Movies",
+            "View Movies",
+            "Update Movies"
+        ]
+    }
+]
